@@ -13,3 +13,5 @@ in the terminal, inside the project folder put this commands:
 </ol>
 
 <h2>Result</h2>
+
+![crono](https://user-images.githubusercontent.com/83776453/175655956-3bbb13b7-565b-4f7f-a45e-358bc2f9d090.gif)
